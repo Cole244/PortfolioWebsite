@@ -1,0 +1,52 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+background-color: #f0f0f0;
+}
+
+h1 {
+    color:#564256;
+    padding-left: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background-color: #ffffff;
+}
+
+h2 {
+   color:#79767d;
+   padding-left: 20px
+}
+
+h3 {
+    color:#79767d;
+    padding-left: 20px;
+}
+p {
+    color:#94543b;
+    padding-left: 40px;
+}
+ul {
+    color:#94543b;
+}
+em {
+    color:#3a3a3a;
+    padding-left: 115px;
+    line-height: 1.5rem;
+}
+a:visited {
+    color: #62564f;
+    background-color: transparent;
+    text-decoration: none;
+}
+    
+    
+a:link {
+    color: #4d0f00;
+    text-decoration: none;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover {
+    color:#0c0500;
+    text-decoration: none;
+}

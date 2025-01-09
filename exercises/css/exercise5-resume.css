@@ -1,0 +1,61 @@
+body {
+    font-family: Georgia;
+  background-color:#232629; 
+}
+  h1{text-align:center;
+    color:#a82d2d;
+    background-color:#1b1e21;
+    font-size: 24px;
+  padding-left: 295px;
+  padding-right: 295px;
+}
+ address{text-align:center;}
+  h2{text-align:center;
+   color:#645e5e;
+   font-size: 18px;
+  padding-left: 295px;
+  padding-right: 295px;
+}
+  h3{text-align: center;}
+
+  p{text-align:center;
+   color:#ffffff;
+   font-size: 14px;
+  padding-left: 295px;
+  padding-right: 295px;
+}
+ol{
+    
+    color:#ffffff;
+    font-size: 14px;
+   padding-left: 525px;
+   
+
+}
+ul{
+    color:#ffffff;
+    font-size: 12px;
+
+}
+em{
+    color:#bdbdbd;
+    font-size: 16px;
+  
+}
+img {
+ padding-left: 480px;
+ padding-right: 330px;
+}
+
+a:visited {
+color: #891616;
+background-color: transparent;
+text-decoration: none;
+}
+
+
+a:link {
+color: #f60052;
+background-color: transparent;
+text-decoration: underline;
+}
